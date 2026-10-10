@@ -1,0 +1,11 @@
+{
+  "name": "evil666md-pair-portal",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "@whiskeysockets/baileys": "github:Jeliostarr/DEV-Baileys",
+    "pino": "^8.17.2"
+  }
+}
